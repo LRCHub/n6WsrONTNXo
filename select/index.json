@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "旅人の唄",
+  "base_artist": "大原ゆい子",
+  "createdAt": "2025-12-05T14:45:50.736301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/01_旅人の唄_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/02_旅人の唄_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "旅人の唄~帰郷~",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/03_旅人の唄~帰郷~_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/04_旅人の唄_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "旅人の唄～帰郷～",
+      "artist": "Yuiko Ohara",
+      "has_synced": true,
+      "path": "select/05_旅人の唄~帰郷~_Yuiko_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "旅人の唄 ～帰郷～",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/06_旅人の唄_~帰郷~_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/07_旅人の唄_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "旅人の唄~帰郷~",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/08_旅人の唄~帰郷~_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": false,
+      "path": "select/09_旅人の唄_PENGUIN_RESEARCH.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "大原ゆい子",
+      "has_synced": true,
+      "path": "select/10_旅人の唄_大原ゆい子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "旅人の唄",
+      "artist": "Yuiko Ōhara",
+      "has_synced": true,
+      "path": "select/11_旅人の唄_Yuiko_Ōhara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "旅人の唄～帰郷～",
+      "artist": "Yuiko Ōhara",
+      "has_synced": true,
+      "path": "select/12_旅人の唄~帰郷~_Yuiko_Ōhara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅人の唄",
+      "artist": "大原ゆい子",
+      "has_synced": false,
+      "path": "select/pl_01_旅人の唄_大原ゆい子.txt"
+    }
+  ]
+}
